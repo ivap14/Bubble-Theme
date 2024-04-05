@@ -1,4 +1,4 @@
-#💿 Bubble Theme by Bubbla 💿
+# 💿 Bubble Theme by Bubbla 💿
 
 Welcome to the Bubble theme by Bubbla! This theme brings a delightful and colorful experience to your Visual Studio Code environment. Dive into a world of vibrant colors and smooth contrasts, making your coding sessions a joyous journey!
 
